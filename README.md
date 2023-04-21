@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a href="https://mansur-isakov.tech/#/">me</a> .
+    <a href="https://github.com/MansurIsakov">me</a> .
     <a href="https://t.me/wrongmansur">blog</a> .
     <a href="https://linkedin.com/in/mansur-isakov/">linkedin</a> .
     <a href="https://twitter.com/mansisakov">tweets</a> .
