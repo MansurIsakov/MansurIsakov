@@ -6,7 +6,7 @@
     <a href="https://twitter.com/mansisakov">tweets</a> .
     <a href="https://discordapp.com/users/Mansur#7124">discord</a> .
     <a href="https://instagram.com/mansisakov">instagram</a> .
-    <a href="https://t.me/themnsr">music</a> .
+    <a href="https://t.me/mansurweathers">music</a> .
     <a href="https://t.me/MansurIsakov">telegram</a>
   </samp>
 </p>
